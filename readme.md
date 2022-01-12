@@ -1,7 +1,7 @@
 # Proceduell skogsmiljö
 
 <!-- ![](./blender/curve%20tree/render2.png) -->
-![](./logbok/comp.gif)
+![](./logbok/animation.gif)
 En genererad och renderad bild.
 
 ## Inledning
@@ -99,7 +99,7 @@ För att skapa fina renderingar lades en area light in i scenen samt en stor vol
 
 ## Resultat
 
-![](./logbok/comp.gif)
+![](./logbok/animation.gif)
 ![](./blender/curve%20tree/render3.png)
 ![](./blender/curve%20tree/render2.png)
 
