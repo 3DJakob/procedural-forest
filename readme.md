@@ -74,7 +74,7 @@ Här ovan är ett träd genererat med de parametrar som användes för de slutli
 Här ovan är en skog genererad med parametrar som gör träden yngre och mindre.
 
 ### Stenar
-![](./blender/curve%20tree/render%204.png)
+![](./blender/curve%20tree/render4.png)
 Skogen behövde stenar för att ge scenen mer realism. Stenarna skapades även dem proceduellt. 
 
 ![](./logbok/stone.gif)
